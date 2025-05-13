@@ -1,6 +1,6 @@
 [dogeraser](https://github.com/user-attachments/assets/a313e5e1-f56b-4797-a53a-616527e00d15)
 
-# 🧨 DOGERASER
+
 
 **DOGERASER** is a modern, GUI-based file and folder shredder written in Python. It securely and irreversibly deletes files and directories using multiple military-grade data erasure algorithms, such as **DoD 5220.22-M**, **Gutmann**, and **Schneier**.
 
