@@ -6,6 +6,9 @@
 
 Built with a sleek and futuristic interface using **Tkinter**, DOGERASER is ideal for users who need to ensure that sensitive data is permanently destroyed and unrecoverable—even with forensic tools.
 
+
+![doggo](https://github.com/user-attachments/assets/5b72fb6e-03ac-4b41-bc62-95af3dd36f79)
+
 ---
 
 ## 🔥 Key Features
